@@ -1,7 +1,7 @@
 <h1 align="center">👋 E aí, sou o Luís</h1>
 
 <p align="center">
-Sistemas, redes e programação — estudo disso todo dia.
+Sistemas, redes e programação, estudo disso todo dia.
 </p>
 
 <h2 align="center">🧠 Sobre mim</h2>
