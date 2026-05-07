@@ -1,26 +1,26 @@
-<h1 align="center">👋 E aí, sou o Luís</h1>
+<h1 align="center">E aí, sou o Luís</h1>
 
 <p align="center">
-Sistemas, redes e programação, estudo disso todo dia.
+Estudo sistemas, redes e programação praticamente todo dia. Curto entender como as coisas funcionam de verdade, sem maquiagem.
 </p>
 
 <h2 align="center">🧠 Sobre mim</h2>
 
-- 🐧 Tenho uma base sólida em Linux, sistemas Unix-like e administração de ambientes (uso principalmente pra estudo e testes).
+- 🐧 Tenho uma base sólida em Linux, sistemas Unix-like e administração de ambientes. Uso muito isso pra estudo, teste e pra fuçar sistema sem depender de interface bonitinha.
 - 🌐 Entendo bem de redes, protocolos e fundamentos de cibersegurança.
-- 🔐 Gosto pra caralho de opsec, análise profunda de sistemas e ver como as coisas funcionam por baixo dos panos.
-- ⚙️ Prefiro o low-level. Frameworks bonitinhos me interessam bem menos que entender o que realmente acontece.
+- 🔐 Curto pra caralho opsec, análise mais funda de sistema e entender o que tá rolando por baixo dos panos.
+- ⚙️ Meu foco puxa mais pro low-level. Framework bonitinho por si só não me pega se eu não entender o que realmente tá acontecendo.
 
 <h2 align="center">🧩 Tecnologias que eu uso</h2>
 
-**Domínio sólido:**
+**O que eu mais domino:**
 - ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
-**Iniciante:**
+**O que eu tô estudando mais a fundo:**
 - ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
@@ -28,11 +28,12 @@ Sistemas, redes e programação, estudo disso todo dia.
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-<h2 align="center">🛰️ O que me interessa de verdade</h2>
+<h2 align="center">🛰️ O que realmente me interessa</h2>
 
 - Sistemas operacionais e arquitetura de computadores
 - Redes, tráfego e protocolos
 - Automação e infraestrutura via código
+- Segurança pensada de forma prática, não só no papel
 
 <p align="center">
 Curioso pra caralho. Cético por padrão.
