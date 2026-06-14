@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:luisfeliperibeiroalves15978@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/email-luisfeliperibeiroalves15978%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/email-contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://tiktok.com/@lenoz7">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
