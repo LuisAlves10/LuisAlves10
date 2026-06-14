@@ -25,9 +25,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=breaking+things+to+understand+them;building+bots%2C+tools+and+automation;Linux+%E2%80%A2+Networks+%E2%80%A2+Security+%E2%80%A2+Code;shadow+mode%3A+study%2C+fix%2C+ship" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <sub>dark anime-inspired profile theme, built around systems, bots and security fundamentals</sub>
-</p>
 
 ---
 
