@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/sung-jin-woo-fight.gif" alt="Sung Jin-Woo Solo Leveling banner" width="100%" />
+  <img src="./assets/sung-jin-woo-fight.gif" alt="Sung Jin-Woo Solo Leveling banner" width="720" height="377" />
 </div>
 
 <h1 align="center">Luis Alves | Lenoz7</h1>
@@ -32,10 +32,6 @@
 ---
 
 ## About me
-
-<p align="right">
-  <img src="./assets/sung-jin-woo-fight.gif" alt="Sung Jin-Woo Solo Leveling animation" width="310" />
-</p>
 
 I study systems, networks and programming with a practical mindset: understand the mechanism, fix the weak point, automate the boring part and keep improving the stack.
 
