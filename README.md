@@ -26,7 +26,7 @@ I like understanding the mechanism before touching the abstraction — then maki
 
 ## selected work
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/speedxzpdev/YukiV3">YukiV3</a></h3>
@@ -60,7 +60,7 @@ I like understanding the mechanism before touching the abstraction — then maki
 
 ## current focus
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <strong>bots / automation</strong><br />
