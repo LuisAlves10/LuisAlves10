@@ -28,17 +28,26 @@ I'm a developer from **Brasília, Brazil**, focused on learning how systems beha
 
 ## `> selected_work`
 
-<p align="center">
-  <a href="https://github.com/speedxzpdev/YukiV3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=speedxzpdev&repo=YukiV3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1" alt="YukiV3 repository card" />
-  </a>
-  <a href="https://github.com/LuisAlves10/TikTok-FPS-Compression-Bypasser">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAlves10&repo=TikTok-FPS-Compression-Bypasser&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1" alt="TikTok FPS Compression Bypasser repository card" />
-  </a>
-</p>
-
-- **YukiV3** — WhatsApp bot development, database repair, command flows, performance and production debugging.
-- **TikTok FPS Compression Bypasser** — Python tooling and video-processing experiments around platform compression behavior.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/speedxzpdev/YukiV3">YukiV3</a></h3>
+      <p>WhatsApp bot development, database repair, command flows, performance and production debugging.</p>
+      <p>
+        <img alt="Contributor" src="https://img.shields.io/badge/role-contributor-38BDF8?style=flat-square&logo=github&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/core-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LuisAlves10/TikTok-FPS-Compression-Bypasser">TikTok FPS Compression Bypasser</a></h3>
+      <p>Python tooling and video-processing experiments around platform compression behavior.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/built_with-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/LuisAlves10/TikTok-FPS-Compression-Bypasser?style=flat-square&color=8B5CF6&label=stars" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## `> stack`
 
@@ -63,14 +72,7 @@ networking         → protocols, traffic analysis and practical tooling
 video tooling      → processing, compression and platform experiments
 ```
 
-## `> github`
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisAlves10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" alt="Luis Alves GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlves10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&hide=C,C%2B%2B" alt="Most used languages" />
-</div>
-
-<br />
+---
 
 <p align="center">
   <strong>Study deeply. Fix precisely. Ship quietly.</strong>
