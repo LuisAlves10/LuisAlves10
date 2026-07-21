@@ -1,83 +1,92 @@
 <div align="center">
-  <img src="./assets/sung-jin-woo-fight.gif" alt="Sung Jin-Woo Solo Leveling banner" width="760" />
+  <img src="./assets/signal-in-the-fog.webp" alt="A solitary figure crossing a foggy, reflective space" width="100%" />
+
+  <br />
+
+  <h1>luis alves <sub>/ lenoz7</sub></h1>
+
+  <p><em>systems, automation and the space between signal and noise.</em></p>
+
+  <p>
+    <a href="https://github.com/LuisAlves10?tab=repositories">repositories</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:luisfeliperibeiroalves15978@gmail.com">email</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://tiktok.com/@lenoz7">tiktok</a>
+  </p>
 </div>
 
-<h1 align="center">Luis Alves <sub>Lenoz7</sub></h1>
+<br />
 
-<p align="center">
-  <strong>Systems · automation · backend · practical security</strong><br />
-  I take things apart to understand them, then rebuild them into useful tools.
-</p>
+## about
 
-<p align="center">
-  <a href="mailto:luisfeliperibeiroalves15978@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
-  <a href="https://tiktok.com/@lenoz7"><img alt="TikTok" src="https://img.shields.io/badge/@lenoz7-0D1117?style=for-the-badge&logo=tiktok&logoColor=8B5CF6" /></a>
-  <a href="https://github.com/LuisAlves10?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=CBD5E1" /></a>
-</p>
+I'm a developer from **Brasília, Brazil**. I build bots, automation, backend systems and media tooling, usually starting with the parts most people only notice when they fail: state, timing, permissions, performance, recovery and the real user flow.
 
----
+I like understanding the mechanism before touching the abstraction — then making the result quieter, faster and easier to maintain.
 
-## `> whoami`
-
-I'm a developer from **Brasília, Brazil**, focused on learning how systems behave in the real world and turning that knowledge into practical software.
-
-- Building bots, automation, APIs and database-backed tools
-- Exploring Linux, networking, infrastructure and applied security
-- Debugging real user flows instead of stopping at surface-level fixes
-- Improving backend architecture, performance and reliability
-
-## `> selected_work`
+## selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/speedxzpdev/YukiV3">YukiV3</a></h3>
-      <p>WhatsApp bot development, database repair, command flows, performance and production debugging.</p>
-      <p>
-        <img alt="Contributor" src="https://img.shields.io/badge/role-contributor-38BDF8?style=flat-square&logo=github&logoColor=white" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/core-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
+      <p><sub>CONTRIBUTOR · WHATSAPP BOT</sub></p>
+      <p>Command architecture, database performance, administrative tools and production debugging for a Brazilian WhatsApp bot.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>MongoDB</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/LuisAlves10/TikTok-FPS-Compression-Bypasser">TikTok FPS Compression Bypasser</a></h3>
-      <p>Python tooling and video-processing experiments around platform compression behavior.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/built_with-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img alt="Stars" src="https://img.shields.io/github/stars/LuisAlves10/TikTok-FPS-Compression-Bypasser?style=flat-square&color=8B5CF6&label=stars" />
-      </p>
+      <p><sub>CREATOR · VIDEO TOOLING</sub></p>
+      <p>Desktop tooling and video-container experiments focused on platform compression behavior.</p>
+      <p><code>Python</code> <code>FFmpeg</code> <code>Windows</code></p>
     </td>
   </tr>
 </table>
 
-## `> stack`
+## working with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,php,html,css,linux,bash,git,github,mysql,sqlite,wordpress,vscode&theme=dark" alt="JavaScript, Node.js, Python, Java, PHP, HTML, CSS, Linux, Bash, Git, GitHub, MySQL, SQLite, WordPress and VS Code" />
+<p>
+  <code>JavaScript</code>&nbsp;
+  <code>Node.js</code>&nbsp;
+  <code>Python</code>&nbsp;
+  <code>Java</code>&nbsp;
+  <code>PHP</code>&nbsp;
+  <code>Linux</code>&nbsp;
+  <code>Bash</code>&nbsp;
+  <code>Git</code>&nbsp;
+  <code>MySQL</code>&nbsp;
+  <code>SQLite</code>
 </p>
 
+## current focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>bots / automation</strong><br />
+      <sub>reliable commands, handlers and real user flows</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>backend systems</strong><br />
+      <sub>APIs, databases, caching and maintainable architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>networks / security</strong><br />
+      <sub>protocols, traffic analysis and practical hardening</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>media tooling</strong><br />
+      <sub>processing, compression and platform experiments</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=22C55E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=38BDF8" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FACC15" />
-  <img alt="Security" src="https://img.shields.io/badge/Security-0D1117?style=flat-square&logo=hackthebox&logoColor=8B5CF6" />
-</p>
-
-## `> current_focus`
-
-```text
-bots & automation  → reliable commands, handlers and real user flows
-backend systems    → APIs, databases, caching and maintainable architecture
-networking         → protocols, traffic analysis and practical tooling
-video tooling      → processing, compression and platform experiments
-```
-
----
-
-<p align="center">
-  <strong>Study deeply. Fix precisely. Ship quietly.</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisAlves10&label=profile%20views&color=38BDF8&style=flat-square" alt="Profile views" />
+  <sub>soundtrack: <a href="https://open.spotify.com/playlist/6EEtBhZDOHyjGctOHVPdjC">REVERB AS ARCHITECTURE</a></sub>
+  <br /><br />
+  <em>study deeply. fix precisely. ship quietly.</em>
 </p>
